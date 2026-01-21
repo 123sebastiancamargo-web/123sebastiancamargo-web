@@ -1,48 +1,27 @@
-# 👋 Hi, I’m Sebastian Camargo
+👋 Sebastian Camargo
 
-**IT Support Technician (L1) | Windows | Microsoft 365 | Networking | Azure (Learning)**
+IT Support Technician (L1) | Windows | Microsoft 365 | Networking | AWS (Learning)
 
-I’m an entry-level IT Support professional with hands-on experience in troubleshooting hardware, software, and user issues in live environments. I enjoy solving problems, supporting users, and continuously improving my technical skills with the goal of growing into Cloud and Systems roles.
+Entry-level IT Support Technician with hands-on experience troubleshooting Windows systems, Microsoft 365, hardware, and basic networking issues. Strong customer support skills, clear documentation, and a growth mindset focused on AWS and cloud support roles.
 
----
+Key Skills:
 
-## 🛠️ Technical Skills
-- **Operating Systems:** Windows 10/11  
-- **Productivity & Cloud:** Microsoft 365 (Outlook, Teams, OneDrive, SharePoint)  
-- **IT Support:** L1 / Help Desk, ticket handling, user support  
-- **Networking:** TCP/IP basics, DNS, DHCP, Wi-Fi troubleshooting  
-- **Hardware:** PC setup, diagnostics, peripherals, display issues  
-- **Processes:** ITIL fundamentals, documentation, escalation  
-- **Languages:** English & French (bilingual)
+Windows 10/11 | Microsoft 365 (Outlook, Teams, OneDrive)
 
----
+L1 Help Desk | Ticketing | User Support
 
-## 💼 Experience Highlights
-- First-line technical support and troubleshooting  
-- User account assistance (passwords, access issues)  
-- Windows workstation setup and configuration  
-- Basic network connectivity checks (Wi-Fi, VPN, IP)  
-- Clear communication with users and ticket documentation  
+TCP/IP, DNS, DHCP, Wi-Fi troubleshooting
 
----
+PC setup, diagnostics, peripherals
 
-## 📚 Education & Learning
-- **Google IT Support Professional Certificate** (in progress)  
-- Actively learning **Azure fundamentals** and Microsoft Cloud environments  
-- Continuous self-learning through labs and real-world scenarios  
+AWS fundamentals (EC2, IAM, S3 – learning)
 
----
+English & French (bilingual)
 
-## 🚀 Career Goals
-- Short term: **IT Support / Help Desk Technician**  
-- Mid term: **System Administrator / Cloud Support**  
-- Long term: **Cloud Engineer (Azure)**  
+Career Focus:
+IT Support → System Administrator / Cloud Support → AWS Cloud Engineer
 
----
+📍 Open to IT roles
+🔗 LinkedIn: https://www.linkedin.com/in/sebastian-camargo-85b703281/
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: *(https://www.linkedin.com/in/sebastian-camargo-85b703281/)*  
-- 📧 Email: *(123sebastiancamargo@gmail.com)*  
-
-I’m open to entry-level IT opportunities and eager to grow in a professional support environment.
-
+📧 123sebastiancamargo@gmail.com
