@@ -41,7 +41,7 @@ I’m an entry-level IT Support professional with hands-on experience in trouble
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: *(https://www.linkedin.com/in/sebastian-camargo-85b703281/)*  
+- 💼 LinkedIn: *(linkedin.com/in/sebastian-camargo-85b703281)*  
 - 📧 Email: *(123sebastiancamargo@gmail.com)*  
 
 I’m open to entry-level IT opportunities and eager to grow in a professional support environment.
