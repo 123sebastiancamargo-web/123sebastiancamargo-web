@@ -1,27 +1,75 @@
-👋 Sebastian Camargo
+# 👋 Sebastian Camargo
 
-IT Support Technician (L1) | Windows | Microsoft 365 | Networking | AWS (Learning)
+**IT Support Technician **  
+Windows | Microsoft 365 | Active Directory | Networking | AWS (Labs)
 
-Entry-level IT Support Technician with hands-on experience troubleshooting Windows systems, Microsoft 365, hardware, and basic networking issues. Strong customer support skills, clear documentation, and a growth mindset focused on AWS and cloud support roles.
+Hands-on IT Support Technician focused on troubleshooting, user support, and system administration fundamentals. Experience working with Windows environments, Microsoft 365, Active Directory, and networking issues through practical labs and ticket-based simulations. Actively building cloud skills with AWS.
 
-Key Skills:
+---
 
-Windows 10/11 | Microsoft 365 (Outlook, Teams, OneDrive)
+## 🛠️ Technical Skills
 
-L1 Help Desk | Ticketing | User Support
+### Operating Systems & Systems
+- Windows 10 / 11 troubleshooting
+- Windows Server (lab environments)
+- System setup, diagnostics, and maintenance
 
-TCP/IP, DNS, DHCP, Wi-Fi troubleshooting
+### IT Support & Help Desk
+- Level 1 Help Desk & deskside support
+- Ticket creation, triage, and resolution
+- User onboarding and offboarding
+- Password resets & account lockout resolution
+- Clear technical documentation
 
-PC setup, diagnostics, peripherals
+### Identity & Access Management
+- Active Directory (users, groups, permissions)
+- Password and account security fundamentals
 
-AWS fundamentals (EC2, IAM, S3 – learning)
+### Microsoft 365
+- Outlook, Teams, OneDrive, SharePoint
+- User account and access support
+- MFA and login issue troubleshooting
 
-English & French (bilingual)
+### Networking Fundamentals
+- TCP/IP, DNS, DHCP
+- Wi-Fi and connectivity troubleshooting
+- Basic network diagnostics
 
-Career Focus:
-IT Support → System Administrator / Cloud Support → AWS Cloud Engineer
+### Cloud (Hands-on Labs)
+- AWS fundamentals
+- EC2, IAM, S3
+- Cloud security basics
 
-📍 Open to IT roles
-🔗 LinkedIn: https://www.linkedin.com/in/sebastian-camargo-85b703281/
+### Languages
+- English & French (Bilingual)
 
-📧 123sebastiancamargo@gmail.com
+---
+
+## 🧪 Repository Overview
+
+This repository contains practical labs and simulations that reflect real-world IT support tasks, including:
+
+- 🎫 Help Desk ticket scenarios (ITIL-style)
+- 🖥️ Windows Server & Active Directory labs
+- 🔐 Account lockout and password policy troubleshooting
+- 🌐 Network connectivity issue resolution
+- ☁️ AWS foundational labs
+
+Each lab includes:
+- Issue description
+- Tools used
+- Step-by-step resolution
+- Validation and documentation
+
+---
+
+## 🎯 Career Path
+
+IT Support Technician → System Administrator / Cloud Support → AWS Cloud Engineer
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/sebastian-camargo-85b703281/
+- **Email:** 123sebastiancamargo@gmail.com
