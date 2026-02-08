@@ -63,10 +63,6 @@ Each lab includes:
 
 ---
 
-## 🎯 Career Path
-
-IT Support Technician → System Administrator / Cloud Support → AWS Cloud Engineer
-
 ---
 
 ## 📬 Contact
